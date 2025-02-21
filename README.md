@@ -5,7 +5,7 @@
 
 ![Example Result](result_console.png)
 
-![License](https://img.shields.io/badge/License-ERLL-blue)
+![LICENSE](https://img.shields.io/badge/License-ERLL-blue)
 
 ## Features
 
