@@ -109,12 +109,13 @@ Code: 156 | Subject: CAREER EDUCATION | Grade: A+
 | Exam Type                          | Code         |
 |------------------------------------|--------------|
 | SSC/Dakhil/Equivalent              | `"ssc"`      |
-| JSC/JDC                           | `"jsc"`      |
-| SSC(Vocational)                   | `"ssc_voc"`  |
-| HSC/Alim                          | `"hsc"`      |
-| HSC(Vocational)                   | `"hsc_voc"`  |
-| HSC(BM)                           | `"hsc_hbm"`  |
-| Diploma in Commerce               | `"hsc_dic"`  |
+| JSC/JDC                            | `"jsc"`      |
+| SSC(Vocational)                    | `"ssc_voc"`  |
+| HSC/Alim                           | `"hsc"`      |
+| HSC(Vocational)                    | `"hsc_voc"`  |
+| HSC(BM)                            | `"hsc_hbm"`  |
+| Diploma in Commerce                | `"hsc_dic"`  |
+| Diploma in Business Studies        | `"hsc"`      |
 
 ## License
 
