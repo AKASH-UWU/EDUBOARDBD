@@ -17,7 +17,7 @@
 
 ## Prerequisites
 
-- [Go](https://golang.org/) (v1.16+)
+- [Go](https://golang.org/) (v1.20+)
 - [Chrome/Chromium](https://www.google.com/chrome/) (for CAPTCHA automation)
 
 ## Installation
