@@ -93,16 +93,26 @@ Code: 156 | Subject: CAREER EDUCATION | Grade: A+
 
 ## Supported Boards
 
-- Dhaka
-- Comilla
-- Chittagong
-- Rajshahi
-- Barishal
-- Sylhet
-- Dinajpur
-- Jessore
-- Madrasah (Dakhil)
-- Technical (Vocational)
+
+
+| Board                              |     Code       |
+|------------------------------------|----------------|
+| Dhaka                              |  `"dhaka"`     |
+| comilla                            | `"comilla"`    |
+| Chittagong                         | `"chittagong"` |
+| mymensingh                         | `"mymensingh"` |
+| Rajshahi                           | `"rajshahi"`   |
+| Barishal                           | `"barisal"`    |
+| Sylhet                             | `"sylhet"`     |
+| Dinajpur                           | `"dinajpur"`   |
+| Jessore                            | `"jessore"`    |
+| Madrasah (Dakhil)                  | `"madrasah"`   |
+| Technical (Vocational)             | `"tec"`        |
+| DIBS (Dhaka)                       | `"dibs"`       |
+
+
+
+
 
 ## Education Level Mappings
 
